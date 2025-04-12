@@ -3,7 +3,7 @@
 Graduada em **Ciências Sociais**, apaixonada por dados e pelo poder que eles têm de contar histórias e transformar realidades.  
 Atualmente, sou entusiasta da **Ciência de Dados**, com experiência prática em **análise estatística** e em projetos usando **R**.
 
-Estou trilhando meu desenvolvimento com foco em **PBL (Project-Based Learning)** — porque aprender fazendo faz mais sentido!  
+Me desenvolvo com base na **metodologia PBL (Project-Based Learning)** — porque aprender fazendo faz mais sentido!  
 Meu objetivo é criar projetos que **gerem insights de impacto**, com base em dados reais e desafios do mundo que vivemos.  
 
 ---
@@ -21,7 +21,7 @@ Meu objetivo é criar projetos que **gerem insights de impacto**, com base em da
 
 | Projeto | Descrição | Status |
 |--------|------------|--------|
-| [Análise de Gastos Pessoais](https://github.com/seuusuario/analise-gastos-pessoais) | Exploração de dados pessoais com R, visualizações e insights financeiros | ✅ Concluído |
+| [Análise de Gastos Pessoais](https://github.com/raphaellar/analise-gastos-pessoais) | Exploração de dados pessoais com R, visualizações e insights financeiros | ✅ Concluído |
 | Análise de Desemprego no Brasil | Estudo com dados públicos do IBGE, focado em regiões e faixas etárias | 🔄 Em desenvolvimento |
 | Dash de Produtos Populares | Projeto fictício de visualização de vendas e preferências de consumo | 🔜 Em breve |
 
@@ -37,8 +37,8 @@ Meu objetivo é criar projetos que **gerem insights de impacto**, com base em da
 
 ### 🤝 Vamos conectar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📝 [Meu Notion (em breve)]()
-- 📫 Email: seuemail@email.com
+- 🌐 Portfólio: *em breve...*
+- 📫 Email: santosraphaellar@gmail.com
 
 ---
 
