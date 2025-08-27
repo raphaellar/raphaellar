@@ -3,7 +3,7 @@
 Graduada em **Ciências Sociais** e atualmente estudante de **Sistemas de Computação**.  
 Sou apaixonada por dados, tecnologia e pelo poder que eles têm de **contar histórias, gerar valor e transformar realidades**.  
 
-Possuo certificações em **ITIL Foundation** e **Microsoft DP-900 (Azure Data Fundamentals)**.  
+Possuo certificações em **ITIL®  Foundation** e **Microsoft DP-900 (Azure Data Fundamentals)**.  
 Tenho experiência prática com **R, Python, Excel, Power BI e SQL**, aplicando essas ferramentas em análises, visualizações e projetos baseados em dados.  
 
 Meu aprendizado é guiado pela **metodologia PBL (Project-Based Learning)** — porque aprender fazendo faz mais sentido!  
