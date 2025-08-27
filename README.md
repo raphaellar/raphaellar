@@ -36,4 +36,16 @@ Meu objetivo é desenvolver projetos que unam **tecnologia, dados e impacto soci
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/-RMarkdown-2C3E50?style=flat-square&logo=bookstack&logoColor=white)
+
+---
+
+### 🤝 Vamos conectar?
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- 📫 Email: santosraphaellar@gmail.com  
+
+---
+
+✨ *"Data! Data! Data! I can’t make bricks without clay."* — Sherlock Holmes
