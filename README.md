@@ -1,19 +1,23 @@
 # 👩‍💻 Olá, eu sou a Raphaella!
 
-Graduada em **Ciências Sociais**, apaixonada por dados e pelo poder que eles têm de contar histórias e transformar realidades.  
-Atualmente, sou entusiasta da **Ciência de Dados**, com experiência prática em **análise estatística** e em projetos usando **R**.
+Graduada em **Ciências Sociais** e atualmente estudante de **Sistemas de Computação**.  
+Sou apaixonada por dados, tecnologia e pelo poder que eles têm de **contar histórias, gerar valor e transformar realidades**.  
 
-Me desenvolvo com base na **metodologia PBL (Project-Based Learning)** — porque aprender fazendo faz mais sentido!  
-Meu objetivo é criar projetos que **gerem insights de impacto**, com base em dados reais e desafios do mundo que vivemos.  
+Possuo certificações em **ITIL Foundation** e **Microsoft DP-900 (Azure Data Fundamentals)**.  
+Tenho experiência prática com **R, Python, Excel, Power BI e SQL**, aplicando essas ferramentas em análises, visualizações e projetos baseados em dados.  
+
+Meu aprendizado é guiado pela **metodologia PBL (Project-Based Learning)** — porque aprender fazendo faz mais sentido!  
+Meu objetivo é desenvolver projetos que unam **tecnologia, dados e impacto social**.  
 
 ---
 
 ### 🚀 Principais interesses
 - Engenharia e Ciência de Dados  
-- Estatística aplicada e modelagem  
-- Análise exploratória e visualização com R  
-- Dados públicos e temas sociais  
-- Comunicação de dados e storytelling
+- Banco de Dados e Linguagens de Programação  
+- Visualização e Storytelling de Dados  
+- Business Intelligence (BI)  
+- Análise Exploratória, Estatística e Modelagem  
+- Aplicações de dados em temas sociais e de impacto  
 
 ---
 
@@ -21,25 +25,15 @@ Meu objetivo é criar projetos que **gerem insights de impacto**, com base em da
 
 | Projeto | Descrição | Status |
 |--------|------------|--------|
-| [Análise de Gastos Pessoais](https://github.com/raphaellar/analise-gastos-pessoais) | Exploração de dados pessoais com R, visualizações e insights financeiros | ✅ Concluído |
-| Análise de Desemprego no Brasil | Estudo com dados públicos do IBGE, focado em regiões e faixas etárias | 🔄 Em desenvolvimento |
-| Dash de Produtos Populares | Projeto fictício de visualização de vendas e preferências de consumo | 🔜 Em breve |
+| - | - | - |
+| - | - | - |
+| - | - | - |
 
 ---
 
 ### 🧰 Ferramentas & Tecnologias
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![RMarkdown](https://img.shields.io/badge/-RMarkdown-2C3E50?style=flat-square&logo=bookstack&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
----
-
-### 🤝 Vamos conectar?
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🌐 Portfólio: *em breve...*
-- 📫 Email: santosraphaellar@gmail.com
-
----
-
-✨ *"Dados bem analisados mudam discursos, decisões e direções."*
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo)
